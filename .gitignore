@@ -1,0 +1,54 @@
+## .NET
+# Diretórios de build
+/bin/
+/obj/
+
+# Arquivos de configuração do usuário do Visual Studio
+.vs/
+.vscode/
+
+# Arquivos de configuração gerados automaticamente do Rider
+.idea/
+
+# Ficheiros de logs
+*.log
+
+# Arquivos do ASP.NET Core (Kestrel)
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+
+# Cache de pacotes NuGet
+.nuget/
+
+# Diretório gerado pela ferramenta de ferramentas de pacotes (nuget)
+packages/
+
+# Arquivos gerados de teste
+test-*.xml
+
+# Arquivos temporários do Visual Studio
+*_i.c
+*_p.c
+*_h.h
+
+# Arquivos de logs do compilador
+*.tlog
+
+# Diretórios de trabalho do usuário no Visual Studio
+.vs2019/
+.vs2017/
+
+# Arquivos de binários
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.app
+*.apk
+*.xap
+*.vsix
