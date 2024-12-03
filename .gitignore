@@ -1,7 +1,7 @@
 ## .NET
 # Diretórios de build
-/bin/
-/obj/
+/bin/*
+/obj/*
 
 # Arquivos de configuração do usuário do Visual Studio
 .vs/
